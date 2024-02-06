@@ -6,10 +6,10 @@ This is repo to demo how to add CSS to a web project.
 2. Create a "site.css" file inside the new folder
 3. link the new css file in each HTML page:
 
-      <link rel="stylesheet" type="text/css" href="styles/site.css">
+      `<link rel="stylesheet" type="text/css" href="styles/site.css">`
 
 4.  Add a styling rule to the site.css file:
 
-    body {
+    `body {
          background-color: #f6f0df;
-    }
+    }`
