@@ -1,4 +1,4 @@
-# Setup INFO 1300 Add CSS
+#INFO 1300 > Add CSS to Web Project
 
 This is repo to demo how to add CSS to a web project.
 
